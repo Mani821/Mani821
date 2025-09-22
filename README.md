@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi there! 👋 I'm a Flutter Developer<br><br>🔭 Current Focus<br>Breaking app speed limits with Flutter 🚀 (while deadlines try—and fail—to catch me).<br><br>🌱 Learning Journey<br><br>Currently leveling up my superpowers with:<br>React.js (because Flutter doesn’t like the web... yet 👀)<br>HTML, CSS, JavaScript (aka the holy trinity of "why is this div not centered?").<br><br>👯 Collaboration<br>Always up for teaming up on projects that are fun, challenging, or slightly illegal for deadlines.<br><br>💬 Ask me about<br><br>Flutter widgets (my toys 🧸)<br>State management (a.k.a. "keeping the app sane")<br>Cross-platform development (why make two apps when you can make one?)<br>Mobile app architecture (yes, I actually plan stuff before coding… sometimes).<br><br>🚀 Tech Stack<br><br>Primary: Flutter & Dart (my ride or die 💙)<br>Learning: React.js, Web Tech<br>Secret Skill: Making apps that look like they took forever, but didn’t.<br><br>⚡ Fun Fact<br>Flutter lets me ship iOS and Android apps from a single codebase. That’s right—two birds, one Dart. 🎯
 
 
@@ -13,10 +12,12 @@ Hi there! 👋 I'm a Flutter Developer<br><br>🔭 Current Focus<br>Breaking app
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MANI821&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MANI821&theme=merko&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=MANI821&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MANI821&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
